@@ -1,6 +1,10 @@
-.DS_Store
-bower_components
-node_modules
-npm-debug.log
-css
-node_modules_to_ignore/
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
